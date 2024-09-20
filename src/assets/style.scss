@@ -1,0 +1,47 @@
+@import './tailwind.css';
+
+:root {
+    --content: #e59e0f;
+    --content-border: #b67e0c;
+    --content-light: #ffb31b;
+    --text-red-dark: #5d1208;
+
+    --blue: #069;
+    --blue-light: #006699;
+    --blue-lighter: #0d73ad;
+    --blue-lightest: #2685bc;
+    --blue-dark: #0c3a65;
+    --blue-darker: #0e3955;
+    --blue-darkest: #001726;
+
+    --avatar: #02353c;
+    --avatar-border: #267b91;
+
+    --btn-success: #00813e;
+    --btn-success-border: #8eda55;
+    --btn-success-hover: #00ab54;
+    --btn-success-hover-border: #b9f373;
+    --btn-success-active: #006743;
+    --btn-success-active-border: #5abb37;
+
+    --btn-info: #0f7dbc;
+    --btn-info-border: #2a9cde;
+    --btn-info-hover: #2a9cde;
+    --btn-info-hover-border: #53bdf9;
+    --btn-info-active: #084d74;
+    --btn-info-active-border: #1e7b9e;
+
+    --btn-warning: #ffb900;
+    --btn-warning-border: #ffea00;
+    --btn-warning-hover: #ffd400;
+    --btn-warning-hover-border: #fffd70;
+    --btn-warning-active: #f89400;
+    --btn-warning-active-border: #ffce37;
+
+    --btn-error: #a0001d;
+    --btn-error-border: #f10000;
+    --btn-error-hover: #bb0022;
+    --btn-error-hover-border: #ff0000;
+    --btn-error-active: #850018;
+    --btn-error-active-border: #c70000;
+}
